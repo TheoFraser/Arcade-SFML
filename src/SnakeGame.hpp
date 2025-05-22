@@ -1,3 +1,4 @@
+// Ensure this header is only included once per compilation unit
 #pragma once
 
 #include <SFML/Graphics.hpp>
